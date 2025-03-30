@@ -1,6 +1,6 @@
 # M2M
 
-Release Date: March 29, 2025
+Release Date: March 30, 2025
 
 Author
 
@@ -53,7 +53,7 @@ This tool is designed to identify embeddings of a query subgraph within a given 
 Running example
 
 ```
-$ ./M2M -Df dblp.graph -Qf query_dense_4_4.graph
+$ ./M2M -Df dblp.graph -Qf query_dense_4_1.graph
 
 This tool is utilized to analyze the embeddings of the query graph 'query_dense_4_4.graph' in the database graph 'dblp.graph', and by default, it outputs 500 embeddings.
 ```

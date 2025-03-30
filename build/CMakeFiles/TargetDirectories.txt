@@ -1,0 +1,3 @@
+/HOME/scw6eyx/run/cyf/M2M/build/CMakeFiles/M2M.dir
+/HOME/scw6eyx/run/cyf/M2M/build/CMakeFiles/edit_cache.dir
+/HOME/scw6eyx/run/cyf/M2M/build/CMakeFiles/rebuild_cache.dir
